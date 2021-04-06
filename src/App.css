@@ -1,0 +1,6 @@
+.move-with-sidebar {
+    width: -webkit-calc(100% - 250px) !important;
+    width: -moz-calc(100% - 250px) !important;
+    width: calc(100% - 250px) !important;
+    transition: width .5s;
+}
