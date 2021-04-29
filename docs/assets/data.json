@@ -1,0 +1,15 @@
+[{
+  "QuizID": 1,
+  "Name": "John Doe",
+  "Score": 7.5,
+  "Total": 10,
+  "Categories": {
+    "BlueprintReading": 4.3,
+    "Budgeting": 4.7,
+    "ConstructionMath": 4.9,
+    "SafetyOSHA": 5.0,
+    "CustomerService": 4.0,
+    "BuildingKnowledge": 5.0,
+    "Competency": 3.5
+  }
+}]
